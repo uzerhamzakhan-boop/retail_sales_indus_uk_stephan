@@ -1,8 +1,8 @@
-# Retail Sales Analytics Dashboard- Stephan UK | Power BI Portfolio Project
+# Retail Sales Analytics Dashboard- Stephan UK
 
 ## Project Overview
 
-This project demonstrates an end-to-end Business Intelligence solution built in Power BI using a real-world retail sales dataset. The objective was to transform raw transactional data into an interactive executive dashboard that helps business stakeholders monitor sales performance, customer behavior, product performance, and return trends.
+This project demonstrates an end-to-end Business Intelligence solution built in Power BI using a retail sales dataset. The objective was to transform raw transactional data into an interactive executive dashboard that helps business stakeholders monitor sales performance, customer behavior, product performance, and return trends.
 
 The project covers the complete analytics workflow, including data cleaning, data modeling, DAX calculations, dashboard design, and business insight generation.
 
